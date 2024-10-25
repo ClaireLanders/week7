@@ -11,3 +11,5 @@ def test_mymath_multiply():
 
 def test_mymath_power():
     assert mymath.power(2, 3) == 8
+
+
